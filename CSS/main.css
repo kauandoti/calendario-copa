@@ -44,5 +44,5 @@
 .card h2,
 .card ul li img,
 .card ul li strong {
-    transition: transform 0.3s;
+    transition: transform .3s;
 }
